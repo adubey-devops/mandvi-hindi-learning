@@ -15,3 +15,5 @@ The contact form is marked up for Netlify Forms. It will collect submissions aft
 The contact form is marked up for Netlify Forms. It will collect submissions after the site is deployed to Netlify and form handling is enabled there. If you host on AWS or another platform, connect the form to that provider's submission endpoint (for AWS, typically an API Gateway/Lambda workflow with email delivery) before launch.
 
 The reviews section includes a separate `review` form. Netlify stores submissions privately in the site dashboard; they do not publish automatically. Enable form detection and redeploy after connecting the repository. Review and approve the wording and attribution before adding a testimonial to the public page.
+
+The certification pathway copy is intentionally general until the independent assessor, proficiency levels, assessment criteria, and schedule are confirmed.
